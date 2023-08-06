@@ -42,8 +42,8 @@ on:
         required: true
         default: 'recovery'
 
-        permissions:
-          contens: write
+permissions:
+contens: write
 
 jobs:
   build:
