@@ -43,7 +43,7 @@ on:
         default: 'recovery'
 
 permissions:
-contens: write
+  contens: write
 
 jobs:
   build:
